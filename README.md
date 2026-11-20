@@ -29,7 +29,6 @@ RegisterNumber:  212224250005
 
 import pandas as pd
 import matplotlib.pyplot as plt
-
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeRegressor, plot_tree
 from sklearn.metrics import r2_score, mean_absolute_error
